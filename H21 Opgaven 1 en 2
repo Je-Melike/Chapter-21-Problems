@@ -60,3 +60,18 @@ print("Integration result by Trapezoidal method is: %0.6f" % (result) )
 
 
 #def my_int_calc(f,f0,a,b,N,option):
+
+
+def my_int_calc(f, f0, a, b, N, option, x):
+    a<b
+    f == ('fromuleer een functie', )
+    f0 == print('Kies een beginwaarde', )
+    print('Kies een methode')
+    
+    #if option = 'rect':
+         
+    a = print('kies een start waarde')
+    b = print('Kies een stop waarde')
+    N = print('Kies de stapgrootte', int())
+    x == np.linspace(a, b, N)
+    print(x)
